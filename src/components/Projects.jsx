@@ -16,12 +16,11 @@ function Projects() {
             <h2>Movie Search App</h2>
             <p>
               A movie search application that allows users to search and explore
-              movie information using an interactive and modern UI. Built with
-              React.
+              movie information using an interactive and modern UI.
             </p>
             <div className="card-links">
               <a
-                href="https://github.com/shreyajshetty/Film-react-cra"
+                href="https://github.com/shreyajshetty/film-nextjs"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="source-link"

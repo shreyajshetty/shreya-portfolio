@@ -34,14 +34,7 @@ function Skills() {
           <FaReact className="skill-icon" />
           <p>React</p>
         </div>
-        <div className="skill">
-          <FaNodeJs className="skill-icon" />
-          <p>NodeJs</p>
-        </div>
-        <div className="skill">
-          <FaPhp className="skill-icon" />
-          <p>PHP</p>
-        </div>
+
         <div className="skill">
           <SiMysql className="skill-icon" />
           <p>MySQL</p>
@@ -50,21 +43,10 @@ function Skills() {
           <FaLinux className="skill-icon" />
           <p>Linux</p>
         </div>
-        <div className="skill">
-          <SiExpress className="skill-icon" />
-          <p>ExpressJs</p>
-        </div>
+
         <div className="skill">
           <FaGitAlt className="skill-icon" />
           <p>Git</p>
-        </div>
-        <div className="skill">
-          <SiNextdotjs className="skill-icon" />
-          <p>NextJs</p>
-        </div>
-        <div className="skill">
-          <FaJava className="skill-icon" />
-          <p>Java</p>
         </div>
       </div>
     </section>

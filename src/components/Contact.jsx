@@ -10,9 +10,7 @@ function Contact() {
   const handleEmailClick = () => {
     window.location.href = "mailto:shettyshreyaj24@gmail.com";
   };
-  const handlePhoneClick = () => {
-    window.location.href = "tel:+918088015843";
-  };
+  
   const handleGithubClick = () => {
     window.location.href = "https://github.com/shreyajshetty";
   };
@@ -38,11 +36,7 @@ function Contact() {
           </span>
         </div>
 
-        <div className="contact-item" onClick={handlePhoneClick}>
-          <FaPhoneAlt size={30} />{" "}
-          <span style={{ color: "white", paddingLeft: "10px" }}>Contact </span>
-        </div>
-
+       
         <div className="contact-item" onClick={handleGithubClick}>
           <FaGithub size={30} />
           <span style={{ color: "white", paddingLeft: "10px" }}> GitHub</span>
